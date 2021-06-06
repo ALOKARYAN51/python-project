@@ -1,4 +1,4 @@
-#matrix multiplication using function
+#Matrix multiplication using function
 #Step1 Need to initialise c to zero.
 #Step2 Need to consider two matrix A and B.
 #Step3 Need to find the dot product of two lists.
